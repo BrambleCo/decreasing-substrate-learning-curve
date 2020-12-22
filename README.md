@@ -1,6 +1,6 @@
 # How to decrease Substrate Learning Curve
 
-1) Read the Rust Book (1st 14 chapters)
+1) Read the Rust Book (1st 14 chapters) https://doc.rust-lang.org/book/title-page.html
 
 2) Read all the documentation of modules in https://github.com/paritytech/substrate/
 

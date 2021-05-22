@@ -12,4 +12,4 @@
 If you want to contribute to this repository, create a Pull request and I will make sure it is added if it is a valid Point / more detailed way for a specific topic.
 
 ## Contact
-Discord Server - https://discord.gg/rJM5vNxF8P
+Discord Server - https://discord.gg/zrxGhrwNs7
